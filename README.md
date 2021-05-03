@@ -7,16 +7,16 @@
 <h2>Tela inicial do projeto</h2>
 <p align="center">No Fomulário a esquerda será inserido os dados do contrato, contendo o plano desejado, quantidade de beneficiários e o nome e idade dos respectivos beneficiários.</p>
 <p align="center">Na Tabela a direita informará os contratos já registrados na sessão.</p>
-<img src="{{ asset{{ 'assets/img/Tela 1.png' }} }}" alt="Tela inicial do projeto">
+<img src="{{ asset{{ 'assets/img/Tela1.png' }} }}" alt="Tela inicial do projeto">
 
 <h2>Informações do Contrato</h2>
 <p align="center">No formulário a esquerda estarão as informações do contrato solicitado, com as informações passadas no formulário anterior. Ao clicar em 'Contratar' estará registrando o contrato aceitando as respectivas informações.</p>
-<img src="{{ asset{{ 'assets/img/Tela 2.png' }} }}" alt="Tela inicial do projeto">
+<img src="{{ asset{{ 'assets/img/Tela2.png' }} }}" alt="Tela inicial do projeto">
 
 <h2>Tabela dos Contratos Cadastrados</h2>
 <p align="center">A tabela a direita mostrará os contratos cadastrados. Basta clicar na 'Lupa' para obter informaçoes do mesmo.</p>
-<img src="{{ asset{{ 'assets/img/Tela 3.png' }} }}" alt="Tela inicial do projeto">
+<img src="{{ asset{{ 'assets/img/Tela3.png' }} }}" alt="Tela inicial do projeto">
 
 <h2></h2>
 <p align="center">O formulário a direita mostrará informações detalhadas do contrato cadastrado.</p>
-<img src="{{ asset{{ 'assets/img/Tela 4.png' }} }}" alt="Tela inicial do projeto">
+<img src="{{ asset{{ 'assets/img/Tela4.png' }} }}" alt="Tela inicial do projeto">
