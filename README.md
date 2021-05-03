@@ -1,8 +1,21 @@
 ## Nome do Projeto 
 <h1 align="center">Desafio PHP: Planos de Saúde</h1>
-
 ## Descrição do Projeto
 <p align="center">Projeto desenvolvido para o Desafio em PHP: O sistema foi construido para cadastrar novos beneficiários em um determinado plano de saúde, respeitando as regras de faixa etára e quantidade de beneficiários cadastrados.</p>
+
+<h2>Instalação</h2>
+
+<h3>1º:</h3>
+$ composer update
+
+<h3>2º:</h3>
+Criação do arquivo .env através do arquivo .env.example
+
+<h3>3º:</h3>
+$ php artisan key:generate
+
+<h3>4º:</h3>
+$ php artisan serve
 
 <h2>Tela inicial do projeto</h2>
 <p align="center">No Fomulário a esquerda será inserido os dados do contrato, contendo o plano desejado, quantidade de beneficiários e o nome e idade dos respectivos beneficiários.</p>
