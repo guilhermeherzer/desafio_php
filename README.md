@@ -17,6 +17,6 @@
 <p align="center">A tabela a direita mostrará os contratos cadastrados. Basta clicar na 'Lupa' para obter informaçoes do mesmo.</p>
 <img src="public/assets/img/Tela3.png" alt="Tela inicial do projeto">
 
-<h2></h2>
+<h2>Detalhes do Contrato</h2>
 <p align="center">O formulário a direita mostrará informações detalhadas do contrato cadastrado.</p>
 <img src="public/assets/img/Tela4.png" alt="Tela inicial do projeto">
